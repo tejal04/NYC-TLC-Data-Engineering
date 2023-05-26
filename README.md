@@ -8,3 +8,4 @@ This project focus on NYC TLC Data Analysis using Python, GCP Storage, Compute E
 [NYC TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ### Data Modeling
+![Fact-Dimension Model](etl-pipeline-mage/data_model.png)
