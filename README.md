@@ -4,8 +4,13 @@ This project focus on NYC TLC Data Analysis using Python, GCP Storage, Compute E
 ### Interactive Dashboard Walkthrough
 [Watch Here](https://youtu.be/0o6VXLd1TR8)
 
+### Cloud-Based Data Analytics 
+![Architecture](resources/architecture.png)
+
 ### Data Source 
 [NYC TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ### Data Modeling
-![Fact-Dimension Model](etl-pipeline-mage/data_model.png)
+![Fact-Dimension Model](resources/data_model.png)
+
+
