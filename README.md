@@ -4,7 +4,7 @@ This project focus on NYC TLC Data Analysis using Python, GCP Storage, Compute E
 ### Interactive Dashboard Walkthrough
 [Watch Here](https://youtu.be/0o6VXLd1TR8)
 <br>
-![Dashboard](resources/Dashboard.png)
+![Dashboard](resources/dashboard.png)
 <br>
 <br>
 ### Cloud-Based Data Analytics 
